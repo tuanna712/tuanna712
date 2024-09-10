@@ -7,8 +7,14 @@
   <a href="https://www.linkedin.com/in/tuannguyen129/" target=”_blank”>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <a href="https://github.com/tuanna712" target=”_blank”>
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  
+  <a href="https://github.com/tuanna712" target=”_blank”>
   <img src="https://img.shields.io/badge/PAGE-green?style=for-the-badge&logo=Github&logoColor=white" alt="Personal Page Badge"/>
+  </a>
 </div>
 
 **tuanna712/tuanna712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
