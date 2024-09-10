@@ -36,13 +36,23 @@ I am a Data Scientist.
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit"  alt="Streamlit" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn"  alt="Scikitlearn" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
 
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j"  alt="Neo4j" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit"  alt="Streamlit" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/>
 
@@ -58,6 +68,7 @@ I am a Data Scientist.
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean"  alt="DigitalOcean" width="40" height="40"/>
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex"  alt="Latex" width="40" height="40"/>
   
 
 </div>
