@@ -27,7 +27,7 @@ I am a Data Scientist.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuannguyen129/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tuan.a.nguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuannguyen129/)
 
 ---
 
