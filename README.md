@@ -1,5 +1,9 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="100"/>
+</div>
 
+<!-- <iframe src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv">via GIPHY</a></p> -->
 <!--
 **tuanna712/tuanna712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
