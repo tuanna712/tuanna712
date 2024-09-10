@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o4amRvOTM3M2hkbWJkanN3YTRuZnBoNXJ2OHhsa2U3bGRlNmV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp" width="100"/>
 </div>
 
 <!-- <iframe src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv">via GIPHY</a></p> -->
