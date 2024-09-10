@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/PAGE-green?style=for-the-badge&logo=Github&logoColor=white" alt="Personal Page Badge"/>
   </a>
 </div>
+---
+
+### :man_technologist: About Me :
 
 **tuanna712/tuanna712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
