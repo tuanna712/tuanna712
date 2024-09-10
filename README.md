@@ -52,6 +52,6 @@ I am a Data Scientist.
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tuanna712&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tuanna712&theme=shadow-green&hide_border=true" alt="GitHub Streak" />
 
 
