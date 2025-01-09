@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   
-  <a href="https://github.com/tuanna712" target=”_blank”>
+  <a href="https://tuananguyen.me" target=”_blank”>
   <img src="https://img.shields.io/badge/PAGE-green?style=for-the-badge&logo=Github&logoColor=white" alt="Personal Page Badge"/>
   </a>
 </div>
@@ -23,11 +23,12 @@
 I am a 
 - :man_technologist: Passionate coder 
 - :raising_hand: Curious thinker 
+- :kissing_cat: Cat lover
 - :mountain: Man who enjoys exploring new perspectives.
 
 My research interests lie in explainable and controllable AI, with a focus on advancing solutions in the energy sector.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tuan.a.nguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuannguyen129/)
+- Reach me: [![Linkedin Badge](https://img.shields.io/badge/-TuanNguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuannguyen129/)
 
 ---
 
