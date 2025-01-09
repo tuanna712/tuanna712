@@ -18,14 +18,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
-I am a Data Scientist.
-- :telescope: I’m working as a Data Scientist in Machine Learning, NLP, CV.
+I am a 
+- :man_technologist: Passionate coder 
+- :raising_hand: Curious thinker 
+- :mountain: Man who enjoys exploring new perspectives.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+My research interests lie in explainable and controllable AI, with a focus on advancing solutions in the energy sector.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tuan.a.nguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuannguyen129/)
 
